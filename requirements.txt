@@ -1,0 +1,5 @@
+gTTS==2.0.0
+netifaces==0.10.7
+pyalsaaudio==0.8.4
+aiy_projects_python.egg==info
+requests==2.12.4
