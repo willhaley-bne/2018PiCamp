@@ -6,14 +6,14 @@ Inspired by [Simone Giertz](www.simonegiertz.com), I decided to make the scripts
 It will sort of be the theme of the camp: lets see if we can figure out the dumbest things we can make the
 device do.
 
-###Pre-reqs:
+### Pre-reqs:
 Below are a list of packages you'll need to add to the pi ( via apt-get ) so everything will work.  I hope this is a 
 complete list, but there maybe something I missed.
 * mpg321 (to play the mp3's)
 * python-alsaaudio (to let python monkey with the volume)
 
 
-###Startup-x scripts:
+### Startup-x scripts:
 I wanted to make sure that the students in the summer camps didn't have to have the AIY app to know what the IP 
 address of the Pi after initial set up.   Therefore, I made a couple of startup scripts that either slacked 
 or said the IP of the device at boot up. 
