@@ -6,7 +6,7 @@ import os
 
 def main():
 
-    files = glob.glob('sesame_street/*.mp3')
+    files = glob.glob('muppets/*.mp3')
     max = len(files)
 
     button = aiy.voicehat.get_button()
