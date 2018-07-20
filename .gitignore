@@ -1,2 +1,5 @@
 slack.txt
 .idea/*
+\.idea/
+
+*.mp3
